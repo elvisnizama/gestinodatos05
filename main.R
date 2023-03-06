@@ -1,0 +1,5 @@
+# install.packages("mlbench")
+library(mlbench)
+data(Glass)
+summary(Glass)
+str(Glass)
